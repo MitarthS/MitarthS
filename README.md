@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MitarthS
-- 👀 I’m interested in developing software & learning new technologies 
+- 👀 I’m interested in developing softwares & learning new technologies 
 - 🌱 I’m currently learning mongoDB & next.js with express.js to shift to full stack 
 - 📫 How to reach me: drop me a connection request at linkedin.com/in/mitarth-singh
 
